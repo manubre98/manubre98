@@ -5,11 +5,11 @@ I am currently a Master's Degree student in Mathematical Engineering in the Stat
 
 :mortar_board: **Education:**
  - Master of Science in Mathematical Engineering at `Politecnico di Milano`
- - Bachelor of Science in Mathematical Engineering  at `Università Degli Studi di Firenze`
+ - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano`
 
 :pushpin: **Projects:**
  - [Bayesian Mixture Modeling with Wasserstein Distance](https://github.com/manubre98/BayesMixtureModeling) [Under Development]
- - [NPS_GoogleBrain](https://github.com/manuelsalamino/Data_Intelligence_App) [Under Development]
+ - [NPS_GoogleBrain](https://github.com/manubre98/NPS_GoogleBrain) [Under Development]
  - [Online Product Advertising and Pricing with Context Generation](https://github.com/manuelsalamino/Data_Intelligence_App) 
  - [SpotifyFeatures_RapPredictor](https://github.com/manubre98/SpotifyFeatures_RapPredictor)
 
