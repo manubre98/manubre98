@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am currently a Master's Degree student in Mathematical Engineering in the Statistical Learning track.
-Here are some ideas to get you started:
+
 
 :mortar_board: **Education:**
  - Master of Science in Mathematical Engineering at `Politecnico di Milano`
