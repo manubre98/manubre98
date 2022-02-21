@@ -8,8 +8,8 @@ I am currently a Master's Degree student in Mathematical Engineering in the Stat
  - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano`
 
 :pushpin: **Projects:**
- - [Bayesian Mixture Modeling with Wasserstein Distance](https://github.com/manubre98/BayesMixtureModeling) [Under Development]
- - [NPS_GoogleBrain](https://github.com/manubre98/NPS_GoogleBrain) [Under Development]
+ - [Bayesian Mixture Modeling with Wasserstein Distance](https://github.com/manubre98/BayesMixtureModeling) 
+ - [NPS_GoogleBrain](https://github.com/manubre98/NPS_GoogleBrain)
  - [Online Product Advertising and Pricing with Context Generation](https://github.com/manubre98/Dia_Project) 
  - [DeepLearning_Projects](https://github.com/manubre98/DeepLearning_Projects)
  - [SpotifyFeatures_RapPredictor](https://github.com/manubre98/SpotifyFeatures_RapPredictor)
